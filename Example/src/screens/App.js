@@ -6,36 +6,36 @@ import Help from './Help';
 import mock from '../mock';
 
 const GlobalStyle = createGlobalStyle`
-  * {
-    margin: 0;
-    padding: 0;
-    color: #FFF;
-    outline: none;
-    text-decoration: none;
-    font-family: sans-serif;
-  }
+	* {
+		margin: 0;
+		padding: 0;
+		color: #FFF;
+		outline: none;
+		text-decoration: none;
+		font-family: sans-serif;
+	}
 
-  html, body, #root, #root > div {
+	html, body, #root, #root > div {
 		display: flex;
-    width: 100%;
-    height: 100%;
+		width: 100%;
+		height: 100%;
 		font-size: 10.6px;
-    overflow: hidden;
-    background: ${p => p.background};
+		overflow: hidden;
+		background: ${p => p.background};
 
 		@media (min-width: 1000px) {
-      font-size: 11.383px;
-    }
+			font-size: 11.383px;
+		}
 		@media (min-width: 1900px) {
-      font-size: 16px;
-    }
+			font-size: 16px;
+		}
 		@media (min-width: 2500px) {
-      font-size: 23px;
-    }
+			font-size: 23px;
+		}
 		@media (min-width: 3800px) {
-      font-size: 31px;
-    }
-  }
+			font-size: 31px;
+		}
+	}
 `;
 
 const Menu = styled.div`
