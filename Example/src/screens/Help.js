@@ -27,7 +27,7 @@ const Help = () => (
 		<h1>Help</h1>
 		<p>1. This demo is not designed to be used with the mouse, so use the arrow keys to navigate.(&#8592; &#8594; &#8593; &#8595;)</p>
 		<p>2. The data used here is generated randomly during page loading, that is, to test with new data, just update the page.</p>
-		<p>3. For more details about the project, visit: <a href="https://github.com/ayrtoneverton/nav">https://github.com/ayrtoneverton/nav</a>.</p>
+		<p>3. For more details about the project, visit: <a href="https://github.com/ayrtoneverton/elements-navigation" target="_black">https://github.com/ayrtoneverton/elements-navigation</a>.</p>
 	</Container>
 );
 

@@ -1,13 +1,14 @@
 {
-	"name": "example",
+	"name": "elements-navigation-example",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Elements Navigation Example",
 	"author": "Airton Everton <ayrtoneverton@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ayrtoneverton/example/issues"
+		"url": "https://github.com/ayrtoneverton/elements-navigation/issues"
 	},
 	"main": "src/index.js",
+	"homepage": "https://ayrtoneverton.github.io/elements-navigation/",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
