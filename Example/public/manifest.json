@@ -1,0 +1,16 @@
+{
+	"short_name": "Example",
+	"name": "Example",
+	"description": "Example",
+	"icons": [
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		}
+	],
+	"start_url": "./index.html",
+	"display": "standalone",
+	"theme_color": "#022332",
+	"background_color": "#022332"
+}
