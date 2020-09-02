@@ -1,0 +1,29 @@
+{
+	"name": "elements-navigation",
+	"version": "1.0.0",
+	"main": "elements-navigation.js",
+	"description": "A simple and flexible library for navigation between focusable elements using a remote control or keyboard.",
+	"author": {
+		"name": "Airton Everton",
+		"email": "ayrtoneverton@gmail.com",
+		"url": "https://github.com/ayrtoneverton"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ayrtoneverton/elements-navigation.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ayrtoneverton/elements-navigation/issues",
+		"email": "ayrtoneverton@gmail.com"
+	},
+	"homepage": "https://ayrtoneverton.github.io/elements-navigation/",
+	"scripts": {
+		"build": "cd src-react && npm i && npm run build"
+	},
+	"keywords": [
+		"elements", "navigation", 	"navigation-component",
+		"dom", "focus", "keyboard", "remote-control", "front-end", "react",
+		"tv", "smart-tv", "tv-apps"
+	]
+}
