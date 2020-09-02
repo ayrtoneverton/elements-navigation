@@ -1,6 +1,7 @@
 {
 	"name": "elements-navigation-react",
 	"version": "1.0.0",
+	"private": true,
 	"description": "Elements Navigation React",
 	"author": {
 		"name": "Airton Everton",

@@ -1,0 +1,16 @@
+{
+	"short_name": "Elements Navigation Example",
+	"name": "Elements Navigation Example",
+	"description": "Elements Navigation Example",
+	"icons": [
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "95x95"
+		}
+	],
+	"start_url": "index.html",
+	"display": "standalone",
+	"theme_color": "#022332",
+	"background_color": "#022332"
+}

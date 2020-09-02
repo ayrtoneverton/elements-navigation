@@ -1,0 +1,54 @@
+{
+  "name": "elements-navigation-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elements Navigation Example",
+  "author": {
+    "name": "Airton Everton",
+    "email": "ayrtoneverton@gmail.com",
+    "url": "https://github.com/ayrtoneverton"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayrtoneverton/elements-navigation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayrtoneverton/elements-navigation/issues",
+    "email": "ayrtoneverton@gmail.com"
+  },
+  "homepage": "https://ayrtoneverton.github.io/elements-navigation/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "engines": {
+    "node": "^12.14.0",
+    "npm": "^6.13.4"
+  },
+  "dependencies": {
+    "elements-navigation": "^1.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
